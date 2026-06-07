@@ -1,0 +1,19 @@
+# Compiled Java classes
+out/
+*.class
+
+# IDE directories
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle (not used, but just in case)
+target/
+build/
+.gradle/
